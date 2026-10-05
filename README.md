@@ -35,13 +35,3 @@
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## 조별 프로젝트
-
-각 조가 자신의 데이터로 합성데이터 생성 파이프라인을 만들고 평가합니다.
-
-**평가의 다섯 축** — Utility · Alignment · Fidelity · Privacy · Diversity
-
-> 원본을 그대로 복사하면 Fidelity는 만점이지만 Privacy는 0점입니다.
